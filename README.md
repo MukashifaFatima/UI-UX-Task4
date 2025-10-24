@@ -48,7 +48,7 @@ The final design maintains LinkedIn’s professional identity but looks cleaner,
 
 **Before image:**
 
-![image alt]()
+![image alt](https://github.com/MukashifaFatima/UI-UX-Task4/blob/main/Before.png?raw=true)
 
 
 **After improvements image:**
